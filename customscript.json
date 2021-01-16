@@ -1,0 +1,4 @@
+{
+    "fileUris": ["https://raw.githubusercontent.com/Thatsnumberwanng/AzureCustomScriptExtensions/main/Debian_nginx_install.sh"],
+    "commandToExecute": "./Debian_nginx_install.sh"
+}
